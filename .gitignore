@@ -21,3 +21,16 @@ rag_storage
 venv/
 examples/input/
 examples/output/
+
+agriculture/*
+cooking/*
+mix/*
+
+reproduce/exp/*
+reproduce/exp_log/*
+reproduce/mix/*
+reproduce/Step_1_tongyi_ollama.py
+reproduce/.env
+datasets
+.env
+爱尔眼科(修正目录版).pdf
